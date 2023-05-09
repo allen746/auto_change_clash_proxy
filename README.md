@@ -1,0 +1,2 @@
+# auto_change_clash_proxy
+Python脚本实现Clash for windows自动切换国家节点
