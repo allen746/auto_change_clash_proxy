@@ -27,3 +27,9 @@ https://clash.gitbook.io/doc/restful-api
 
  ![image](https://user-images.githubusercontent.com/79882515/237054430-8702053b-a71b-4844-ad34-335a1745f5db.png)
 
+7、更新日志
+
+20230519
+
+增加获取当前代理的状态，切换不超时的国家节点
+![image](https://github.com/allen746/auto_change_clash_proxy/assets/79882515/4f6544a8-957e-46be-b438-988f5db4bc7d)
